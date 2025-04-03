@@ -33,3 +33,11 @@ Putting it all together in practice
 • Move all configurations / setup in an config / start-up state, instead of doing
 it prior to the while(1) as we have done thus far – can recover if something
 died without warning.
+
+Languages used- C
+Hardware- PIC24FJ64GA002
+Description-The PIC24FJ64GA002 microcontroller has a 16-bit CPU and can operate at a maximum speed of 16 MHz. It includes 64KB of flash memory for program storage. The device comes in a 28-pin SPDIP package.
+
+Technical Specifications
+
+The PIC24FJ64GA002 has 21 I/O pins and requires THT mounting. It operates within a temperature range of -40C to +85C.
